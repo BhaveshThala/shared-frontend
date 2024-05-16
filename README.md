@@ -34,6 +34,8 @@ npm install
 
 In order to run the application Type the following command
 
+Change the BASE_URL property with your Back-end URL in siteSettings.js file available in src folder.
+
 ```bash
 npm start
 ```
